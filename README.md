@@ -16,7 +16,3 @@ Tasks:
 2. Implement 'update_point_transform!' in icp.jl so that tests pass
 3. Create a short (ICP) report documenting the entire process of running the ICP
    process.
-
-You will need to write a small report documenting each step, including
-sample outputs of each step (screenshot of your manually generated map, your
-manually labeled map features, and screenshots of your ICP algorithm at work).
